@@ -1,0 +1,9 @@
+body {
+    background-image: url("../img/cementerio.svg");
+}
+
+.zombie {
+    height: 50vh;
+    width: 50vh;
+    margin: 25vh auto;
+}

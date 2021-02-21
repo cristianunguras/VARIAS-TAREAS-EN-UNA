@@ -1,0 +1,46 @@
+    form {
+        width: 100%;
+        max-width: 400px;
+        text-align: center;
+        border: solid 1px #c2c2c2;
+        padding-bottom: 10px;
+        margin: auto;
+        background: #fafafa;
+    }
+    
+    body {
+        background-color: yellow;
+    }
+    
+    .display {
+        width: 75%;
+        padding: 16px 32px;
+        font-size: 16px;
+        margin: 8px 0;
+        border: 1px solid silver;
+        border-radius: 10px;
+        text-align: right;
+        color: #333;
+        background: #ccc;
+    }
+    
+    .boton {
+        background-color: grey;
+        border-radius: 10px;
+        color: white;
+        padding: 16px 32px;
+        font-size: 16px;
+        min-width: 20%;
+        text-decoration: none;
+        margin: 4px 2px;
+    }
+    
+    .boton:hover {
+        background-color: #333;
+    }
+    
+    input[type=button] {
+        background-color: grey;
+        text-align: center;
+        font-size: 20px;
+    }

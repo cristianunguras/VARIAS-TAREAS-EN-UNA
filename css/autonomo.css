@@ -1,0 +1,14 @@
+body {
+    background-color: yellow;
+}
+
+.boton {
+    padding: 0.625rem 1.25rem;
+    border-radius: 0.625rem;
+    border: 0.3125rem solid transparent;
+}
+
+.boton:hover {
+    border: 0.3125rem solid #366B89;
+    color: #366B89;
+}

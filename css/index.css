@@ -1,0 +1,23 @@
+.galeria {
+    display: grid;
+    grid-template-columns: repeat(4, 25vw);
+    gap: 1vw;
+    margin-top: 40vh;
+}
+
+.autonomo,
+.zombie,
+.calculadora,
+.conversor {
+    height: 10vh;
+    width: 10vw;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: lightgrey;
+}
